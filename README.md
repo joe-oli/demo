@@ -22,5 +22,7 @@ Fork it and change `db.json` values or create a repo with a `db.json` file.
 [https://my-json-server.typicode.com/joe-oli/fakeJson/users](https://my-json-server.typicode.com/joe-oli/fakeJson/users)  
 [https://my-json-server.typicode.com/joe-oli/fakeJson/users/1](https://my-json-server.typicode.com/joe-oli/fakeJson/users/1)
 
-To see all the data entities, use db
+To see all the data entities, use db  
 https://my-json-server.typicode.com/joe-oli/fakeJson/db
+
+* NB Markdown equivalent for html <br/> is use two spaces instead.
