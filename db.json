@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users" : [
+    { "id": 1, "fname": "joe", "lname": "oli" },
+    { "id": 2, "fname": "cindyrella", "lname": "hottie" },
+    { "id": 3, "fname": "lisa", "lname": "ono" },
+   ]
 }
