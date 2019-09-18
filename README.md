@@ -13,7 +13,7 @@ Fork it and change `db.json` values or create a repo with a `db.json` file.
 
 [https://my-json-server.typicode.com/joe-oli/fakeJson/comments](https://my-json-server.typicode.com/joe-oli/fakeJson/comments)
 
-[https://my-json-server.typicode.com/joe-oli/fakeJson/profiles](https://my-json-server.typicode.com/joe-oli/fakeJson/profiles)
+[https://my-json-server.typicode.com/joe-oli/fakeJson/profile](https://my-json-server.typicode.com/joe-oli/fakeJson/profile)
 
 To see all the data entities, use db
 https://my-json-server.typicode.com/joe-oli/fakeJson/db
